@@ -5,14 +5,15 @@ I had the pleasure to do this project with my friend Kujtim Sadiku https://githu
 1. git clone https://github.com/damzkii/fillit.git  
 2. make all  
 ## Usage  
-run ./fillit "test file"  
-**Test files given**  
+**Run**  
+./fillit "test file"  
+**Test files given**
 - test.txt (normal test)  
 - max_test.txt(max 26 tetriminos test)  
 
 ### Examples of valid tetriminos  
 
-####      ....      .##.      ....      .#..      ....      ....      ##..      ....
-....      ....      ..##      .##.      ###.      ##..      .##.      .#..      ....
-....      ##..      ....      ##..      ....      #...      ..#.      .#..      ..##
-....      ##..      ....      ....      ....      #...      ..#.      ....      ..##
+####      ....      .##.      ....      .#..      ....      ....      ##..      ....  
+....      ....      ..##      .##.      ###.      ##..      .##.      .#..      ....  
+....      ##..      ....      ##..      ....      #...      ..#.      .#..      ..##  
+....      ##..      ....      ....      ....      #...      ..#.      ....      ..##  
