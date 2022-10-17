@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fillit.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ksadiku <ksadiku@student.42.fr>            +#+  +:+       +#+        */
+/*   By: ahermawa <ahermawa@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/25 09:02:36 by ksadiku           #+#    #+#             */
-/*   Updated: 2022/05/09 14:45:08 by ksadiku          ###   ########.fr       */
+/*   Updated: 2022/10/17 18:04:22 by ahermawa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@
 # define MAX 26
 
 # include <fcntl.h>
-# include "libft/libft.h"
+# include "../libft/includes/libft.h"
 
 typedef struct s_coord
 {
