@@ -10,10 +10,9 @@ I had the pleasure to do this project with my friend Kujtim Sadiku https://githu
 ## Usage  
 **Run**  
 ./fillit "test file"  
-![output](https://user-images.githubusercontent.com/82960301/196988490-55a9670d-64fb-4488-94a0-b78086e69c7d.gif)  
 **Test files given**
 - test.txt (normal test)  
 - max_test.txt(max 26 tetriminos test)  
-
+![output](https://user-images.githubusercontent.com/82960301/196988490-55a9670d-64fb-4488-94a0-b78086e69c7d.gif)
 ### Examples of valid tetriminos  
 <img width="640" alt="tetriminos" src="https://user-images.githubusercontent.com/82960301/196219001-676d8398-0997-4e9b-8228-e578706064c8.png">
